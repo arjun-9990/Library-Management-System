@@ -1,0 +1,30 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target folder
+/target/
+
+# Eclipse/IDE settings
+.project
+.classpath
+.settings/
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Hibernate config backup or temp files
+hibernate.cfg.xml~ 
